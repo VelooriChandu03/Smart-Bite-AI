@@ -1,0 +1,7 @@
+{
+  "name": "Smart Bite AI",
+  "description": "A personalized AI health advisor that analyzes food scans based on your unique health profile, medical conditions, and fitness goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
